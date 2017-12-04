@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=War
+comment0.text=\n\ Write\ a\ description\ of\ class\ War\ here.\n\ \n\ @author\ Chad\ Pearson\n\ @version\ 2017.11.128\n
+comment1.params=
+comment1.target=War()
+comment2.params=Good
+comment2.target=void\ ArmyOne(int)
+comment3.params=Evil
+comment3.target=void\ ArmyTwo(int)
+numComments=4
