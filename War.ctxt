@@ -1,10 +1,12 @@
 #BlueJ class context
 comment0.target=War
-comment0.text=\n\ Write\ a\ description\ of\ class\ War\ here.\n\ \n\ @author\ Chad\ Pearson\n\ @version\ 2017.11.128\n
+comment0.text=\n\ Write\ a\ description\ of\ class\ War\ here.\n\ \n\ @author\ Chad\ Pearson\n\ @version\ \n
 comment1.params=
 comment1.target=War()
 comment2.params=Good
 comment2.target=void\ ArmyOne(int)
+comment2.text=\n\ \n\ Each\ time\ Armyone\ loops,\ a\ random\ number\ is\ generated\ between\ 0\ and\ 9.\n\ If\ that\ number\ is\ greater\ that\ 7,\ a\ human\ and\ an\ elf\ is\ created\n\ for\ the\ good\ army.\n
 comment3.params=Evil
 comment3.target=void\ ArmyTwo(int)
+comment3.text=\n\ In\ this\ Armytwo\ method,\ This\ seperate\ random\ variable\ of\ temp\ is\ created\ \n\ first\ to\ account\ for\ the\ fact\ that\ evil\ humans\ and\ demons\ \n\ will\ spawn\ at\ different\ rates.\n
 numComments=4

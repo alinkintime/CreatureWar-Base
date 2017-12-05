@@ -3,8 +3,8 @@ import java.util.Random;
 /**
  * Write a description of class Human here.
  * 
- * @author Emeka Okonkwo 
- * @version 11.20.17
+ * @author Chad Pearson
+ * @version 
  */
 public class Elf extends Creature
 {

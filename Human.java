@@ -1,7 +1,7 @@
 /**
  * Write a description of class Human here.
  * 
- * @author (your name) 
+ * @author Chad Pearson
  * @version (a version number or a date)
  */
 public class Human extends Creature
