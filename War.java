@@ -11,8 +11,6 @@ public class War
 {
     private ArrayList<Creature> goodArmy = new ArrayList<Creature>();
     private ArrayList<Creature> evilArmy = new ArrayList<Creature>();
-    private Randomizer r = new Randomizer();
-    Random rand = new Random();
     
     public War() {
         ArmyOne(100);
